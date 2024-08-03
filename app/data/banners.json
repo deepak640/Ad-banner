@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "div": "square",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+    "textPosition": "top-center",
+    "buttonPosition": "bottom-left"
+  },
+  {
+    "id": 1,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "div": "md-circle",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "textPosition": "top-left",
+    "buttonPosition": "bottom-left-round"
+  },
+  {
+    "id": 2,
+    "title": "Ad Banner 2",
+    "description": "This is the second ad banner",
+    "div": "oval",
+    "cta": "Learn More",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "textPosition": "bottom-left",
+    "buttonPosition": "center"
+  },
+  {
+    "id": 2,
+    "title": "Ad Banner 2",
+    "description": "This is the second ad banner",
+    "cta": "Learn More",
+    "div": "circle",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png",
+    "textPosition": "top-right",
+    "buttonPosition": "bottom-left"
+  }
+]
