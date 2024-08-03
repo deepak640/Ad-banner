@@ -7,36 +7,52 @@
     "div": "square",
     "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
     "textPosition": "top-center",
-    "buttonPosition": "bottom-left"
+    "textColor": "white",
+    "buttonPosition": "bottom-left",
+    "imgPosition": "bottom-center",
+    "imgShape":"square",
+    "imgBorderTouch":false
   },
   {
-    "id": 1,
-    "title": "Ad Banner 1",
+    "id": 2,
+    "title": "Ad Banner 2",
     "description": "This is the first ad banner",
     "cta": "Click Here",
     "div": "md-circle",
     "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
     "textPosition": "top-left",
-    "buttonPosition": "bottom-left-round"
+    "textColor": "white",
+    "buttonPosition": "bottom-left-round",
+    "imgPosition": "right-center",
+    "imgShape":"circle",
+    "imgBorderTouch":false
   },
   {
-    "id": 2,
-    "title": "Ad Banner 2",
+    "id": 3,
+    "title": "Ad Banner 3",
     "description": "This is the second ad banner",
     "div": "oval",
     "cta": "Learn More",
     "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
-    "textPosition": "bottom-left",
-    "buttonPosition": "center"
+    "textPosition": "top-left",
+    "textColor": "black",
+    "buttonPosition": "center",
+    "imgPosition": "bottom-right",
+    "imgShape":"circle",
+    "imgBorderTouch":true
   },
   {
-    "id": 2,
-    "title": "Ad Banner 2",
+    "id": 4,
+    "title": "Ad Banner 4",
     "description": "This is the second ad banner",
     "cta": "Learn More",
     "div": "circle",
     "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png",
-    "textPosition": "top-right",
-    "buttonPosition": "bottom-left"
+    "textPosition": "top-center",
+    "textColor": "white",
+    "buttonPosition": "bottom-left",
+    "imgPosition": "bottom-left",
+    "imgShape":"circle",
+    "imgBorderTouch":false
   }
 ]

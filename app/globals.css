@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -33,4 +33,66 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.img.bottom-center {
+  bottom: 1.5pc;
+  right: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img.bottom-center.square .inner {
+  height: 208px;
+  width: 79%;
+}
+.img .inner {
+  object-fit: cover;
+  background: #fff;
+}
+
+.img.right-center {
+  right: 1pc;
+  bottom: 50%;
+  transform: translateY(50%);
+}
+
+.img.circle .inner {
+  border-radius: 50%;
+}
+
+.img.right-center.circle .inner {
+  height: 200px;
+  width: 200px;
+}
+
+.img.bottom-right.circle .inner {
+  height: 300px;
+  width: 300px;
+}
+
+.img.bottom-right.imgBorderTouch {
+  right: -5pc;
+  bottom: -2pc;
+}
+
+.img.bottom-right {
+  bottom: 0pc;
+  right: 0pc;
+}
+
+.img.bottom-left {
+  bottom: 1pc;
+  left: 1pc;
+}
+
+.img.bottom-left .inner {
+  height: 220px;
+  width: 220px;
+}
+
+.box {
+  box-shadow: inset 0px 0px 0px 2000px #00000040;
 }

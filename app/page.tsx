@@ -68,8 +68,13 @@ const BannerBot = () => {
                 }
                 cta={item.cta}
                 setUpdate={setUpdate}
-                image={Updates.id === index ? Updates.image : item.image}
+                image={item.image}
+                newImage={Updates.id === index ? Updates.image : ''}
                 textPosition={item.textPosition}
+                textColor={item.textColor}
+                imgPosition={item.imgPosition}
+                imgShape={item.imgShape}
+                imgBorderTouch={item.imgBorderTouch}
                 buttonPosition={item.buttonPosition}
                 setIsOpen={setIsOpen}
                 setImage={setImage}
