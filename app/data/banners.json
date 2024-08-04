@@ -10,6 +10,7 @@
     "textColor": "white",
     "buttonPosition": "bottom-left",
     "imgPosition": "bottom-center",
+    "photo":"https://plus.unsplash.com/premium_photo-1682125227290-f62abb91ed5b?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "imgShape":"square",
     "imgBorderTouch":false
   },
@@ -25,12 +26,14 @@
     "buttonPosition": "bottom-left-round",
     "imgPosition": "right-center",
     "imgShape":"circle",
+    "photo":"https://plus.unsplash.com/premium_photo-1682125227290-f62abb91ed5b?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "imgBorderTouch":false
   },
   {
     "id": 3,
     "title": "Ad Banner 3",
     "description": "This is the second ad banner",
+    "photo":"https://plus.unsplash.com/premium_photo-1682125227290-f62abb91ed5b?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "div": "oval",
     "cta": "Learn More",
     "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
@@ -44,6 +47,7 @@
   {
     "id": 4,
     "title": "Ad Banner 4",
+    "photo":"https://plus.unsplash.com/premium_photo-1682125227290-f62abb91ed5b?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "This is the second ad banner",
     "cta": "Learn More",
     "div": "circle",

@@ -69,7 +69,7 @@ const BannerBot = () => {
                 cta={item.cta}
                 setUpdate={setUpdate}
                 image={item.image}
-                newImage={Updates.id === index ? Updates.image : ''}
+                newImage={Updates.id === index ? Updates.image : item.photo}
                 textPosition={item.textPosition}
                 textColor={item.textColor}
                 imgPosition={item.imgPosition}
